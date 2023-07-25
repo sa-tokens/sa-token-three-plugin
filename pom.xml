@@ -19,6 +19,7 @@
 	<!-- 所有子模块 -->
     <modules>
         <module>sa-token-three-example-plugin</module>
+		<module>sa-token-three-redis-jackson-add-prefix</module>
     </modules>
 
 	<dependencies>
