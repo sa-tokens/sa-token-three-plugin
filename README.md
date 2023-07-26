@@ -13,9 +13,9 @@ Sa-Token 三方插件合集，本项目的插件将不定时与 Sa-Token 主仓�
 
 | 插件							| 介绍								| 是否已发布	| 使用文档	|
 | :--------						| :--------							| :--------	| :--------	|
-| sa-token-three-example-plugin	| 为第三方插件开发时提供的示例工程		| 已发布		| [详情](blob/master/sa-token-three-example-plugin/README.md)	|
-| sa-token-three-redis-jackson-add-prefix	| 为 Sa-Token 在 Redis 中的 key 添加上指定前缀		| 未发布		| [详情](blob/master/sa-token-three-redis-jackson-add-prefix/README.md)	|
-| sa-token-three-xxx			| ...								| ...		| ...		|
+| sa-token-three-example-plugin	| 为第三方插件开发时提供的示例工程		| 未发布		| [详情](sa-token-three-example-plugin/README.md)	|
+| sa-token-three-redis-jackson-add-prefix	| 为 Sa-Token 在 Redis 中的 key 添加上指定前缀		| 未发布		| [详情](sa-token-three-redis-jackson-add-prefix/README.md)	|
+
 
 
 
