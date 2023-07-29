@@ -15,6 +15,7 @@ Sa-Token 三方插件合集，希望本仓库可以最大程度汇集社区的�
 | :--------							| :--------			| :--------										| :--------	| :--------	|
 | sa-token-three-example-plugin		| 孔明				| 为第三方插件开发时提供的示例工程					| 未发布		| [详情](sa-token-three-example-plugin/README.md)	|
 | sa-token-three-redis-jackson-add-prefix	| RockMan	| 为 Sa-Token 在 Redis 中的 key 添加上指定前缀	| 未发布		| [详情](sa-token-three-redis-jackson-add-prefix/README.md)	|
+| sa-token-three-custom-check-permission	| RockMan	| 自定义 Sa-Token 的鉴权逻辑，不再一次性返回整个权限码集合给框架判断，而是根据自定义验证规则返回 true 或 false 给框架	| 未发布		| [详情](sa-token-three-custom-check-permission/README.md)	|
 
 
 #### 使用方式

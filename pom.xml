@@ -20,6 +20,7 @@
     <modules>
         <module>sa-token-three-example-plugin</module>
 		<module>sa-token-three-redis-jackson-add-prefix</module>
+		<module>sa-token-three-custom-check-permission</module>
     </modules>
 
 	<dependencies>
