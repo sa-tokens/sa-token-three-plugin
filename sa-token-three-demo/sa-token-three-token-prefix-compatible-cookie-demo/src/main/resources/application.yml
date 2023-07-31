@@ -1,0 +1,7 @@
+# 端口
+server:
+    port: 8081
+
+sa-token:
+    # 配置 token 前缀
+    token-prefix: Bearer
